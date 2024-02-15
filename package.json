@@ -1,0 +1,12 @@
+{
+  "name": "ts-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "문승현 <romingoon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.11.17",
+    "typescript": "^5.3.3"
+  }
+}
